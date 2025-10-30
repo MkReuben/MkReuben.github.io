@@ -10,4 +10,4 @@ Web Vulnerabilities are commmon entry points for attackers we'll explore **Sql i
 Is a type of cyber-attack where a malicious user inserts or “injects” harmful SQL commands into a website’s input fields (like login forms or search bars) to manipulate or steal data from the database.
 
 ##XSS
-Cross-Site Scripting allows attackers to inject into we pages views by others.
+Cross-Site Scripting allows attackers to inject into we pages views by others
