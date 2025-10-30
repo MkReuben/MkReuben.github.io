@@ -5,7 +5,8 @@ icon: fas fa-house
 order: 0
 ---
 
-![Reuben Mugane](/assets/prof.jpg){: style="border-radius:50%; width:160px;" }
+<img src="/assets/profile.jpg" alt="Profile Photo" width="160" style="border-radius: 50%;">
+
 
 
 # 👋 Hi, I'm Reuben Mugane
