@@ -16,4 +16,15 @@ I am a **Result-driven System Support Specialist & Data Analyst** with strong an
 - Data-driven decision making
 - Support Leadership & cross-functional collaboration
 
+---
 
+### 🧠 Quick Snapshot
+- 🏢 4+ years experience in Technical Support & Billing/CRM systems
+- 🧩 Strong Linux, Oracle SQL, Nginx, Docker & VMware knowledge
+- 🛠 Automation using Bash scripting
+- 📡 Telecom & Core Banking environments support
+- 👥 Led a technical support team of 10 engineers
+
+---
+
+> I’m always learning, experimenting, and leveling up. Let’s connect! 🚀
