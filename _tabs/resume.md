@@ -3,7 +3,7 @@
 ---
 title: Resume
 icon: fas fa-envelope
-order: 9
+order: 3
 ---
 
 
