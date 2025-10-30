@@ -1,12 +1,10 @@
 
 
 ---
-title: "Resume"
-layout: "page"
-icon: fas fa-briefcase
-order: 3
+title: Resume
+icon: fas fa-envelope
+order: 9
 ---
-
 
 
 # 📌 Resume — Reuben Mugane
