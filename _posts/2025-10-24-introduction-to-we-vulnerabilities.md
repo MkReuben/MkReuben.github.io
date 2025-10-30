@@ -20,5 +20,4 @@ Driven by curiosity and passion for defending technology, I focus on:
 Explore my work:
 👉 [Projects](/projects)  
 👉 [Labs](/labs)  
-👉 [Resume](/resume)  
 👉 [Contact](/contact)
