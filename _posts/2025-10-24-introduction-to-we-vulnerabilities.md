@@ -1,3 +1,9 @@
+title: "Home"
+layout: "default"
+icon: fas fa-house
+order: 0
+---
+
 # 👋 Hi, I’m Reuben Mugane
 
 I am a passionate ** System Analyst ,Cybersecurity & Telecommunications Engineer** focused on:
