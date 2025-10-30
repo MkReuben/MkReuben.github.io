@@ -3,7 +3,6 @@
 ---
 title: "Resume"
 layout: "page"
-permalink: /resume/
 icon: fas fa-briefcase
 order: 3
 ---
