@@ -1,21 +1,23 @@
+---
 title: "Home"
 layout: "default"
 icon: fas fa-house
 order: 0
 ---
 
-# 👋 Hi, I’m Reuben Mugane
+<img src="/assets/img/profile.jpg" alt="Profile Photo" width="160" style="border-radius: 50%;">
 
-I am a passionate ** System Analyst ,Cybersecurity & Telecommunications Engineer** focused on:
-- Vulnerability Assessment & Ethical Hacking  
-- Network Security & Telecom Systems  
-- Security Automation & Scripting  
+# 👋 Hi, I'm Reuben Mugane
 
-I love solving real-world security problems and documenting my learning journey through **hands-on labs** and **technical projects**.
+### Cybersecurity & Telecommunications Engineer  
+*"Securing systems through research, innovation, and ethical hacking."*
 
----
+Driven by curiosity and passion for defending technology, I focus on:
+- Web & Network Security • Ethical Hacking • Telecom Systems Security
+- Digital Forensics • Automation & Scripting (Bash/Python)
 
-### 🚀 Explore My Work
-- 🔹 [Projects](/projects) — Real-world tools & technical builds
-- 🔹 [Labs](/labs) — Web security, telecom security, and CTF challenges
-- 🔹 [Resume](/resume) — Experience, skills & certifications
+Explore my work:
+👉 [Projects](/projects)  
+👉 [Labs](/labs)  
+👉 [Resume](/resume)  
+👉 [Contact](/contact)
