@@ -9,7 +9,7 @@ order: 0
 
 # 👋 Hi, I'm Reuben Mugane
 
-### Cybersecurity & Telecommunications Engineer  
+### System Speialist,Cybersecurity & Telecommunications Engineer  
 *"Securing systems through research, innovation, and ethical hacking."*
 
 Driven by curiosity and passion for defending technology, I focus on:
