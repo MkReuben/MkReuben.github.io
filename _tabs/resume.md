@@ -1,8 +1,6 @@
-
-
 ---
 title: Resume
-icon: fas fa-envelope
+icon: fas fa-tags
 order: 3
 ---
 
