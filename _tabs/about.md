@@ -1,11 +1,19 @@
 ---
-#title: About
-icon: fas fa-info-circle
-order: 4
+title: About Me
+icon: fas fa-user
+order: 2
 ---
-Hi I'm "Reuben Mugane" ,a system Support Specialist and Data Analyst with experience in telecom billing systems and core banking technologies.
-I bridge the gap between business and technical teams by providing stable, scalable and customer-focused solutions.
-Passionate about automation, cloud technologies and continuous improvement in system operations
 
+## Who I Am 👨‍💻
+
+I am a **Result-driven System Support Specialist & Data Analyst** with strong analytical thinking and technical troubleshooting abilities. I enjoy translating business requirements into technical solutions while ensuring stability, performance, and user satisfaction.
+
+---
+
+### 🔹 Passion Areas
+- Scalable System Architecture
+- Service Provisioning & Integrations (SOAP/REST)
+- Data-driven decision making
+- Support Leadership & cross-functional collaboration
 
 
